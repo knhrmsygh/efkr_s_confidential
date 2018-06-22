@@ -1,3 +1,5 @@
+<link href="{{site.github.url}}/docs/hack.css" rel="stylesheet"></link>
+
 ### 2018/07/07
 
 ついに最強の兵器を完成させてしまった
